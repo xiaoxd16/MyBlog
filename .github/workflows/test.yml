@@ -33,5 +33,5 @@ jobs:
           sudo apt-get install --no-install-recommends yarn
           yarn init -y
           yarn add -D vuepress
-          yarn docs:dev
+          yarn docs:build
           
